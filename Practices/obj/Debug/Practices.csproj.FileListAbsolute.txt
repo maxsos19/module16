@@ -1,0 +1,7 @@
+C:\Users\maksi\source\repos\Practices\Practices\bin\Debug\Practices.exe.config
+C:\Users\maksi\source\repos\Practices\Practices\bin\Debug\Practices.exe
+C:\Users\maksi\source\repos\Practices\Practices\bin\Debug\Practices.pdb
+C:\Users\maksi\source\repos\Practices\Practices\obj\Debug\Practices.csproj.AssemblyReference.cache
+C:\Users\maksi\source\repos\Practices\Practices\obj\Debug\Practices.csproj.CoreCompileInputs.cache
+C:\Users\maksi\source\repos\Practices\Practices\obj\Debug\Practices.exe
+C:\Users\maksi\source\repos\Practices\Practices\obj\Debug\Practices.pdb
